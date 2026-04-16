@@ -1,6 +1,6 @@
-# STATS 489 Research — Luke Lin, University of Michigan
+# STATS 489 Research — Pengzhe Lin
 
-This repository contains three interconnected projects on measurement fairness and psychometric modeling, developed for STATS 489.
+This repository contains three interconnected projects on measurement fairness, developed for STATS 489.
 
 ---
 
@@ -36,4 +36,4 @@ Implementation and simulation study of the DINA (Deterministic Input, Noisy And 
 
 ## Author
 
-Luke Lin — University of Michigan
+Pengzhe Lin — University of Michigan
