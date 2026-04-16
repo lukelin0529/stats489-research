@@ -1,0 +1,39 @@
+# PISA data files (large, not for distribution)
+PISA2022*/
+STU_COG_SAS/
+STU_QQQ_SAS/
+osfstorage-archive/
+*.sas7bdat
+*.sav
+*.zsav
+
+# Simulation outputs / large binaries
+*.pkl
+*.rds
+*.jld
+*.jld2
+
+# Results (regeneratable)
+results/
+logs/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+*.Rproj
+
+# macOS
+.DS_Store
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
